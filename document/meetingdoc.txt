@@ -1,1 +1,37 @@
+Team Name: Group 5
+Team Charter: Link
+Trello Board: Link
+Github: https://github.com/ImmortalSnail/ITSC3155FinalProject
+Final Project Proposal/Report: Link
 
+4/09/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Everything went smoothly and is dopne but the css of the website is moving into the first thing getting done in sprint 2.
+Action items: Ronnie will complete front-end of website, the main page of it, by 4/14/2023, will have to extend front page deadline into next sprint.
+
+4/07/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Met with team X:
+Everything is going as planned, nothing new to discuss, Ronnie does not think he will have the CSS finished in time.
+Action items: Ben Szakacs will help with keeping documentation up to date, Walker Houston will work on ERD and schema, complete by 4/12/2023, Ronnie will have front page finished by 4/12/2023
+
+4/05/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Walker finished the ERD, now needs to do the schema.
+Action items: Ben Szakacs will help with keeping documentation up to date, Walker Houston will work schema, complete by 4/12/2023, Ronnie will have front page finished by 4/12/2023
+
+4/03/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Met with team X:
+Everybody is working on their assignments as expected, no real problems with communication or getting assignments done.
+Action items: Ben Szakacs will help with keeping documentation up to date, Walker Houston will work on ERD and schema, complete by 4/12/2023, Ronnie will have front page finished by 4/12/2023
+
+4/01/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Items discussed and Takeaways
+Action items: Ben Szakacs will help with keeping documentation up to date, Walker Houston will work on ERD and schema, complete by 4/12/2023, Ronnie will have front page finished by 4/12/2023
