@@ -4,6 +4,12 @@ Trello Board: Link
 Github: https://github.com/ImmortalSnail/ITSC3155FinalProject
 Final Project Proposal/Report: Link
 
+4/12/2023
+Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
+Mode of communication: Discord VC/ chat
+Retrospective. See retro document for sprint 1.
+Action items: Ronnie will complete front-end of website, the main page of it, by 4/14/2023, will have to extend front page deadline into next sprint.
+
 4/09/2023
 Members present: Ronnie Hampton, Ben Szakacs, Walker Houston
 Mode of communication: Discord VC/ chat
